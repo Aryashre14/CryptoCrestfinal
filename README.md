@@ -22,7 +22,7 @@
 
 <hr>
 
-## 🚀 Overview
+##  Overview
 
 ### - The challenge
 
@@ -36,13 +36,13 @@ Users should be able to:
 
 <hr>
 
-## 🚀 Built with
+##  Built with
 
 - [![Reactjs][reactjs]][reactjs-url] [![Redux][Redux]][Redux-url] 
 - [![RapidAPI][RapidAPI]][RapidAPI-url] [![antd][antd]][antd-url] 
 - [![Chartjs][chartjs]][chartjs-url]
 
-## 🚀 Dependencies Used
+##  Dependencies Used
 
 <h3>The following dependencies are used in this project:</h3>
 
@@ -62,13 +62,13 @@ Users should be able to:
 
 <hr>
 
-## 🚀 How To Use
+##  How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/hafizmp/disney-plus-clone.git
+$ git clone https://github.com/Aryashre14/CryptoCrestfinal.git
 
 # Go into the repository
 $ cd disney-plus-clone
@@ -85,7 +85,7 @@ $ npm start
 
 ## Links
 
-- Solution URL: [GitHub](https://github.com/hafizmp/cryptovest-app)
+- Solution URL: [GitHub](https://github.com/Aryashre14/CryptoCrestfinal.git)
 - Live Site URL: [CryptoCrest App](https://cryptocrest.netlify.app/)
 
 <hr>
