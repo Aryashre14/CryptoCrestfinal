@@ -2,7 +2,7 @@
             
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="public/logo512.png" alt="Covid-19 Tracker" width="200" style="border-radius:10px"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="public/favicon.png" alt="Covid-19 Tracker" width="200" style="border-radius:10px"></a>
   <br>
   CryptoCrest App
   <br>
